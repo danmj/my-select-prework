@@ -1,6 +1,6 @@
 def my_select(collection) 
 count = 0
-result = []
+a = []
 
 while count < collection.size
   if yield(collection[count]) == true
