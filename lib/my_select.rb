@@ -4,7 +4,7 @@ a = []
 
 while count < collection.size
   if yield(collection[count]) == true
-  result.push(collection[count])
+  a.push(collection[count])
 end
   count+=1
 end
