@@ -8,4 +8,4 @@ while count < collection.size
 end
   count+=1
 end
-result
+a
